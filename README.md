@@ -1,4 +1,8 @@
-Ani2MALis a tool that allows you to export your anime list from sites like [aniwatchtv.to](https://aniwatchtv.to) and [hianime.to](https://hianime.to) to [MyAnimeList](https://myanimelist.net).
+<p align="center">
+  <img src="https://github.com/wrawler/Ani2MAL/blob/main/logo/Ani2mal.png" alt="Description" width="300">
+</p>
+
+Ani2MALis a tool that allows you to export your anime list from your streaming sites to [MyAnimeList](https://myanimelist.net).
 
 # Getting Started 🚀
 
